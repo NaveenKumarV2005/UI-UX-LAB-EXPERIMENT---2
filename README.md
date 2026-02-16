@@ -46,6 +46,4 @@ Accent: White for contrast
 
 ## RESULT:
 Thus the Design a Basic Mobile and Web Layout was created.
-iii) Typography: Bold modern sans-serif fonts like Montserrat, Poppins, or Inter.
-iv) Canva Tip: Search “Streaming Logo” or “OTT Logo”, simplify shapes, keep bold minimal icon style.
-v) Logo Requirement: Export PNG with Transparent Background to place neatly on Login screen, Navbar, and Splash screen in Figma.
+
