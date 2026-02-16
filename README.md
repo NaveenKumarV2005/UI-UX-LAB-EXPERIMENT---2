@@ -1,7 +1,8 @@
 ## UI & UX LAB EXPERIMENT - 2
 ## Design a Basic Mobile and Web Layout for an Existing Case Study:
- Name : Rajamanikandan R
- Reg no : 212223220082
+ Name : Naveen Kumar V
+
+ Reg no : 212223220068
 
 ## ALGORITHM:
 ## a. Applying Gestalt Principles to Vid Stream
